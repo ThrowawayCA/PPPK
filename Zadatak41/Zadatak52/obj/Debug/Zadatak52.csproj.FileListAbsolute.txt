@@ -1,0 +1,9 @@
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\bin\Debug\Zadatak52.exe.config
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\bin\Debug\Zadatak52.exe
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\bin\Debug\Zadatak52.pdb
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\obj\Debug\Zadatak52.Form1.resources
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\obj\Debug\Zadatak52.Properties.Resources.resources
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\obj\Debug\Zadatak52.csproj.GenerateResource.Cache
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\obj\Debug\Zadatak52.csproj.CoreCompileInputs.cache
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\obj\Debug\Zadatak52.exe
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak52\obj\Debug\Zadatak52.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="74dd649160b44ed9868ecfff416a2ae0" Name="Diagram1">
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Drzava" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Grad" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Kategorija" Width="1.5" PointX="3" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Komercijalist" Width="1.5" PointX="5.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.KreditnaKartica" Width="1.5" PointX="5.25" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Kupac" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Potkategorija" Width="1.5" PointX="5.25" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Proizvod" Width="1.5" PointX="7.5" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Racun" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorksOBPModel1.Stavka" Width="1.5" PointX="9.75" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Grad_Drzava" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Kupac_Grad" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Potkategorija_Kategorija" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Racun_Komercijalist" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Racun_KreditnaKartica" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Racun_Kupac" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Proizvod_Potkategorija" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Stavka_Proizvod" ManuallyRouted="false" />
+        <AssociationConnector Association="AdventureWorksOBPModel1.FK_Stavka_Racun" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

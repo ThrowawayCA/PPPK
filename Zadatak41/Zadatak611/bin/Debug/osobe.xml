@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArhivaKupaca>
+  <Kupac IDKupac="3" GradID="3">
+    <Ime>Kim</Ime>
+    <Prezime>Abercrombie</Prezime>
+    <Kontakt email="kim2@adventure-works.com" telefon="334-555-0137" />
+  </Kupac>
+  <Kupac IDKupac="4" GradID="5">
+    <Ime>Humberto</Ime>
+    <Prezime>Acevedo</Prezime>
+    <Kontakt email="humberto0@adventure-works.com" telefon="599-555-0127" />
+  </Kupac>
+  <Kupac IDKupac="6" GradID="9">
+    <Ime>Frances</Ime>
+    <Prezime>Adams</Prezime>
+    <Kontakt email="frances0@adventure-works.com" telefon="991-555-0183" />
+  </Kupac>
+  <Kupac IDKupac="7" GradID="3">
+    <Ime>Margaret</Ime>
+    <Prezime>Smith</Prezime>
+    <Kontakt email="margaret0@adventure-works.com" telefon="959-555-0151" />
+  </Kupac>
+  <Kupac IDKupac="9" GradID="10">
+    <Ime>Jay</Ime>
+    <Prezime>Adams</Prezime>
+    <Kontakt email="jay1@adventure-works.com" telefon="158-555-0142" />
+  </Kupac>
+  <Kupac IDKupac="10" GradID="5">
+    <Ime>Ronald</Ime>
+    <Prezime>Adina</Prezime>
+    <Kontakt email="ronald0@adventure-works.com" telefon="453-555-0165" />
+  </Kupac>
+  <Kupac IDKupac="11" GradID="1">
+    <Ime>Samuel</Ime>
+    <Prezime>Agcaoili</Prezime>
+    <Kontakt email="samuel0@adventure-works.com" telefon="554-555-0110" />
+  </Kupac>
+  <Kupac IDKupac="12" GradID="12">
+    <Ime>James</Ime>
+    <Prezime>Aguilar</Prezime>
+    <Kontakt email="james2@adventure-works.com" telefon="1 (11) 500 555-0198" />
+  </Kupac>
+  <Kupac IDKupac="13" GradID="2">
+    <Ime>Robert</Ime>
+    <Prezime>Ahlering</Prezime>
+    <Kontakt email="robert1@adventure-works.com" telefon="678-555-0175" />
+  </Kupac>
+  <Kupac IDKupac="14" GradID="13">
+    <Ime>François</Ime>
+    <Prezime>Ferrier</Prezime>
+    <Kontakt email="françois1@adventure-works.com" telefon="571-555-0128" />
+  </Kupac>
+</ArhivaKupaca>

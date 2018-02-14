@@ -1,0 +1,7 @@
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\bin\Debug\Zadatak611.exe.config
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\bin\Debug\Zadatak611.exe
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\bin\Debug\Zadatak611.pdb
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\obj\Debug\Zadatak611.csprojResolveAssemblyReference.cache
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\obj\Debug\Zadatak611.csproj.CoreCompileInputs.cache
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\obj\Debug\Zadatak611.exe
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak611\obj\Debug\Zadatak611.pdb

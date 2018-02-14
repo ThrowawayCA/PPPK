@@ -1,0 +1,13 @@
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\Zadatak73.exe.config
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\Zadatak73.exe
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\Zadatak73.pdb
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\EntityFramework.dll
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\EntityFramework.xml
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\obj\Debug\Zadatak73.csprojResolveAssemblyReference.cache
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\obj\Debug\Zadatak73.csproj.CoreCompileInputs.cache
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\obj\Debug\Zadatak73.exe
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\obj\Debug\Zadatak73.pdb
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\obj\Debug\Zadatak73.Migrations.initial.resources
+c:\users\pig3on\Source\repos\Zadatak41\Zadatak73\obj\Debug\Zadatak73.csproj.GenerateResource.Cache
